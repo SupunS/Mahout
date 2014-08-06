@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-cli-2.0-mahout.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/easymock-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/guava-16.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/icu4j-49.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jackson-core-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jackson-jaxrs-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jackson-mapper-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jackson-xc-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jakarta-regexp-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jcl-over-slf4j-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jersey-core-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jersey-json-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jersey-server-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-analyzers-common-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-benchmark-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-core-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-facet-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-highlighter-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-memory-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-queries-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-queryparser-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-sandbox-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/lucene-spatial-4.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-buildtools-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-core-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-core-0.9-job.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-core-0.9-sources.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-core-0.9-tests.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-integration-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-math-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-math-0.9-tests.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/objenesis-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/randomizedtesting-runner-2.0.15.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/solr-commons-csv-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/spatial4j-0.3.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/xstream-1.4.4.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/commons-lang-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/commons-math3-3.3.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/javaparser-1.0.8.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/jaxb2-basics-0.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/jaxb2-basics-runtime-0.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/jaxb2-basics-tools-0.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/jaxb-impl-2.2.6.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/jaxb-xjc-2.2.6.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/joda-convert-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/org.wso2.carbon.event.processor.siddhi.extension_1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/org.wso2.carbon.logging.propfile_1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/pmml-evaluator-1.0.22.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/pmml-manager-1.0.22.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/pmml-model-1.0.22.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/pmml-schema-1.0.22.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/siddhi-api_2.1.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/siddhi-core_2.1.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/siddhi-core-0.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/siddhi-query_2.1.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/super-csv-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/xjc-1.0.22.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

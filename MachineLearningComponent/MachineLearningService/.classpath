@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry exported="true" kind="var" path="ECLIPSE_WORKSPACE/.metadata/.plugins/org.wso2.developerstudio.eclipse.libraries/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-core-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/mahout-math-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Downloads/json-20140107.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/mahout-distribution-0.9/libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="target"/>
+</classpath>

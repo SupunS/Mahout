@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/Softwares/Axis2/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/home/supun/workspace/MLDataPublisher/libs/com.google.gson_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/supun/workspace/MLDataPublisher/libs/commons-pool_1.5.6.wso2v1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/workspace/MLDataPublisher/libs/libthrift_0.7.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/workspace/MLDataPublisher/libs/org.wso2.carbon.databridge.agent.thrift-4.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/supun/workspace/MLDataPublisher/libs/org.wso2.carbon.databridge.commons.thrift_4.0.0.SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/supun/workspace/MLDataPublisher/libs/org.wso2.carbon.databridge.commons_4.0.0.SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/supun/workspace/MLDataPublisher/libs/org.wso2.carbon.logging_4.0.0.SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/supun/workspace/MLDataPublisher/libs/slf4j_1.5.10.wso2v1.jar"/>
+	<classpathentry kind="lib" path="/home/supun/Supun/TrainingProject/latest jars/super-csv-2.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
