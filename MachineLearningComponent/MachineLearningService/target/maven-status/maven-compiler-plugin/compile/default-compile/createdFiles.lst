@@ -1,0 +1,7 @@
+org/wso2/mlearn/MultilayerPerceptronService.class
+org/wso2/mlearn/NaiveBayesService.class
+org/wso2/mlearn/Options.class
+org/wso2/mlearn/LogisticRegressionService.class
+org/wso2/mlearn/LogisticRegressionModel.class
+org/wso2/mlearn/Parameters.class
+org/wso2/mlearn/MachineLearningService.class
